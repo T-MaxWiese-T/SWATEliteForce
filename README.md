@@ -16,9 +16,10 @@ Initially, I envisioned SWAT: Elite Force as a tactical simulator that could be 
 
 
 
-# TABLE OF CONTENTS #
+# TABLE OF CONTENTS # 
 
-1. How to Install
+1. How to Install http://github.com - automatic!
+[GitHub](http://github.com)
 2. Changes, Summarized
 3. Frequently Asked Questions (FAQ)
 4. Known Issues
